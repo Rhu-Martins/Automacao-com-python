@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(0, 0, 0, 0.798);
+}
+
+header{
+    background-color: rgba(240, 248, 255, 0.628);
+    border-radius: 15px;
+}
+
+.formulario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+.titulo{
+    margin-top: 25px;
+}
+
+.campos{
+    display: flex;
+    gap: 80px;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    
+}
+
+.campos_esquerda, .campos_direita{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 50px;
+}
+
+.digitar{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.notificar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.registrar{
+    background-color: rgb(212, 1, 1);
+    color: rgb(255, 255, 255);
+    margin-bottom: 80px;
+}
+
+.contato{
+    
+    font-size: 25px;
+    color: black;
+}
+
