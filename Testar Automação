@@ -2,3 +2,4 @@
 # Para o funciomaneto correto da automação o site deve estar do tamanho
 # antes do container cinza claro ficar fluid, isto é com a tela do navegador redusida a cerca de 700px sujeiro a alterações necessarias por cada dispositivo
 # para isto basta usar o comando do python de mapear as cordenadas do mouse - "mouseinfo"
+# completar a URL do gitpages com "form.html"
