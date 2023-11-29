@@ -6,5 +6,6 @@ Basicamente a automação mapeia as cordenadas em que estão os campos de input 
 
 O cursor do mouse se movimenta de campo em campo ate finalizar cliando no botao de salvar.
 
+Imagine ter que passar 500 produtos manualmente de uma planilha para um site!? Isso não mais.
 
 ![image](https://github.com/Rhu-Martins/Automacao-com-python/assets/101530922/394e31e4-3e98-409c-bdec-21cc793bda8d)
